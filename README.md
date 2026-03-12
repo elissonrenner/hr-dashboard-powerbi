@@ -5,6 +5,10 @@ Power BI dashboard for analyzing HR metrics such as workforce distribution and e
 
 Este projeto apresenta um dashboard de Recursos Humanos desenvolvido no Power BI com o objetivo de analisar indicadores relacionados à gestão de pessoas dentro de uma organização.
 
+## Visualização do Dashboard
+
+![Dashboard de RH](images/dashboard_rh_c.png)
+
 ## Objetivo
 
 O dashboard foi criado para facilitar a visualização de métricas importantes de RH, permitindo identificar padrões e acompanhar indicadores relevantes para a gestão de colaboradores.
@@ -16,6 +20,14 @@ O dashboard foi criado para facilitar a visualização de métricas importantes 
 - Indicadores relacionados ao quadro de colaboradores
 - Análises visuais para apoio à tomada de decisão
 
+Aqui está a visualização de alguns indicadores importantes mostrados na estrutura do dashboard:
+
+![Dashboard de RH](images/dashboard_rh_s.png)
+
+![Dashboard de RH](images/dashboard_rh_i.png)
+
+![Dashboard de RH](images/dashboard_rh_d.png)
+
 ## Ferramentas Utilizadas
 
 - Power BI
@@ -25,10 +37,6 @@ O dashboard foi criado para facilitar a visualização de métricas importantes 
 ## Base de Dados
 
 Os dados utilizados neste projeto são **fictícios**, criados exclusivamente para fins de estudo e desenvolvimento de portfólio.
-
-## Visualização do Dashboard
-
-![Dashboard de RH](images/hr_dashboard.png)
 
 ## Arquivos do Projeto
 
